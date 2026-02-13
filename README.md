@@ -13,5 +13,8 @@
     Based on the insights gained from PyCaret, three tree-based models were selected as base learners. GuassianNB, DecisionTreeClassifier, and XGBClassifier were trained and evaluated independently. To maximize
 predictive performance and reduce variance, Stacking Classifier was implemented to combine the three selected models.
 
+<img width="708" height="455" alt="Screenshot 2026-02-13 at 6 13 53 PM" src="https://github.com/user-attachments/assets/67856bda-a33f-4d32-acd2-703839519da7" />
+
 7. Outcome
     The model achieved an overall accuracy of f1 score: 0.277, accuracy score: 0.61, precision score: 0.24, recall score: 0.32 with the validation data
+
